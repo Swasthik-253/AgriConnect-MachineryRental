@@ -34,9 +34,16 @@ Here are some of the key features and pages in the Agriconnect app:
 
 **Main Page:** The home screen displaying crop details, machinery options, and booking functionality.
 
+![IMG-20240329-WA0015](https://github.com/user-attachments/assets/c9c362e0-7fd9-45c6-8f9b-3ae3a6ea1a82)
 
 **Image Upload Page:** Farmers can upload crop images for analysis.
 
+![IMG-20240329-WA0014](https://github.com/user-attachments/assets/2becb217-a545-4db0-9438-6c08bf1544d9)
+
 **Machine List Page:** View a list of available machinery for rent.
 
+![IMG-20240329-WA0017](https://github.com/user-attachments/assets/bc3fc6cd-3a6f-41d5-ba9c-64902431c8d2)
+
 **Add Machine Page:** Machine owners can add their equipment to the platform.
+
+![IMG-20240329-WA0016](https://github.com/user-attachments/assets/eb288876-ca43-4a1c-80fe-55a278e06fb2)
