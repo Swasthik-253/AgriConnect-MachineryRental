@@ -15,3 +15,10 @@ Crop Identification: Farmers upload images of their crops, which are processed u
 Machine Recommendations: Based on the identified crop, the app recommends suitable machinery available for rent.
 Booking Process: Farmers select their desired equipment, submit a booking request, and receive a notification when their order is approved by the machine owner.
 Order Management: The app allows farmers to view, track, and manage all their bookings, making it easier to coordinate machinery rental and usage.
+
+**Proposed System:**
+The system is designed with a user-friendly interface that streamlines the entire process—from crop identification to machinery booking. Key components include:
+
+**AI-Based Crop Identification:** Using deep learning models like ResNet18 for crop identification with high accuracy.
+**Machine Rental System:** A digital platform for easy and efficient booking of farm machinery, including detailed information such as availability, rental rates, and locations.
+**Data-Driven Recommendations:** The app offers intelligent recommendations based on crop type, farm size, and other factors to ensure the most suitable machinery is booked.
