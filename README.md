@@ -30,7 +30,10 @@ Here are some of the key features and pages in the Agriconnect app:
 
 **Login Page:** Access the app using registered credentials.
 
+![IMG-20240329-WA0013](https://github.com/user-attachments/assets/a78ff911-4c1e-418f-b89e-28f378767842)
+
 **Main Page:** The home screen displaying crop details, machinery options, and booking functionality.
+
 
 **Image Upload Page:** Farmers can upload crop images for analysis.
 
